@@ -1,0 +1,48 @@
+Sandbox.Game/Sandbox.Client
+Sandbox.Game/Sandbox.Client.set_Pawn( Sandbox.Entity )
+Sandbox.Game/Sandbox.CollisionLayer
+Sandbox.Game/Sandbox.Entity
+Sandbox.Game/Sandbox.Entity.get_EyePos()
+Sandbox.Game/Sandbox.Entity.get_EyeRot()
+Sandbox.Game/Sandbox.Entity.get_Input()
+Sandbox.Game/Sandbox.Entity.get_IsClient()
+Sandbox.Game/Sandbox.Entity.get_IsServer()
+Sandbox.Game/Sandbox.Entity.get_PhysicsGroup()
+Sandbox.Game/Sandbox.Entity.set_Camera( Sandbox.ICamera )
+Sandbox.Game/Sandbox.Entity.set_EnableDrawing( System.Boolean )
+Sandbox.Game/Sandbox.Entity.set_EnableHideInFirstPerson( System.Boolean )
+Sandbox.Game/Sandbox.Entity.set_EnableShadowInFirstPerson( System.Boolean )
+Sandbox.Game/Sandbox.Entity.set_Position( Vector3 )
+Sandbox.Game/Sandbox.Entity.set_Rotation( Rotation )
+Sandbox.Game/Sandbox.Entity.set_Scale( System.Single )
+Sandbox.Game/Sandbox.ICamera
+Sandbox.Game/Sandbox.InputButton
+Sandbox.Game/Sandbox.ModelEntity..ctor()
+Sandbox.Game/Sandbox.ModelEntity.set_EnableAllCollisions( System.Boolean )
+Sandbox.Game/Sandbox.ModelEntity.SetInteractsAs( Sandbox.CollisionLayer )
+Sandbox.Game/Sandbox.ModelEntity.SetInteractsExclude( Sandbox.CollisionLayer )
+Sandbox.Game/Sandbox.ModelEntity.SetInteractsWith( Sandbox.CollisionLayer )
+Sandbox.Game/Sandbox.ModelEntity.SetModel( System.String )
+Sandbox.Game/Sandbox.ModelEntity.SetupPhysicsFromModel( Sandbox.PhysicsMotionType, System.Boolean )
+Sandbox.Game/Sandbox.PhysicsGroup
+Sandbox.Game/Sandbox.PhysicsGroup.set_Velocity( Vector3 )
+Sandbox.Game/Sandbox.PhysicsMotionType
+Sandbox.Game/Sandbox.UI.Panel.AddChild<T>( System.String )
+Sandbox.Game/Sandbox.UI.Panel.SetTemplate( System.String )
+Sandbox.Game/Sandbox.UI.RootPanel
+Sandbox.Game/Sandbox.UserInput
+Sandbox.Game/Sandbox.UserInput.Pressed( Sandbox.InputButton )
+Sandbox.System/Rotation
+Sandbox.System/Rotation.get_Forward()
+Sandbox.System/Rotation.LookAt( Vector3 )
+Sandbox.System/Sandbox.LibraryAttribute
+Sandbox.System/Sandbox.Log.Info( System.String )
+Sandbox.System/Vector3
+Sandbox.System/Vector3.get_Normal()
+Sandbox.System/Vector3.get_Random()
+Sandbox.System/Vector3.op_Addition( Vector3, Vector3 )
+Sandbox.System/Vector3.op_Multiply( Vector3, System.Single )
+System.Private.CoreLib/System.Boolean
+System.Private.CoreLib/System.Single
+System.Private.CoreLib/System.String
+System.Private.CoreLib/System.Void

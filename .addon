@@ -1,0 +1,18 @@
+{
+		"name": "sportsbar",
+		"sharedassets": "*.*",
+		
+		"depends": 
+		[
+			"base"
+		],
+
+		"gamemodes":
+		[
+			{
+				"name": "sportsbar",
+				"title": "Sports Bar",
+				"description": "A Chill place to socialise and play mini-games"
+			}
+		]
+}
