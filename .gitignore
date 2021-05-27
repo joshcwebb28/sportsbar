@@ -334,9 +334,10 @@ ASALocalRun/
 .localhistory/
 
 .intermediate/
-.vmat
-.vmdl
-.fbx
-.blend
-.tga
-.
+*.vmap
+*.vmat
+*.vmdl
+*.fbx
+*.blend
+*.tga
+
