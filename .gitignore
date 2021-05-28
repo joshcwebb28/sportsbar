@@ -334,10 +334,11 @@ ASALocalRun/
 .localhistory/
 
 .intermediate/
+/maps
 *.vmap
 *.vmat
 *.vmdl
 *.fbx
 *.blend
 *.tga
-
+*.bin
