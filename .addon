@@ -1,5 +1,6 @@
 {
 		"name": "sportsbar",
+		"version": "0.1",
 		"sharedassets": "*.*",
 		
 		"depends": 
